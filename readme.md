@@ -1,5 +1,7 @@
-# PhotoRestoration
-## 图片、老照片修复，数字图像处理大作业
+# Beauty_web
+## 图片的灰度、反转、平移、，数字图像。
+### 该项目fork自https://github.com/Nirunfeng/face_beauty  仅是对其功能、界面进行完善
+
 ## 技术栈
 - MyBatis
 - Spring
