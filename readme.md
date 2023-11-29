@@ -1,5 +1,5 @@
 # Beauty_web
-## 图片的灰度、反转、平移、，数字图像。
+## 图片的灰度、反转、平移…… 数字图像。
 ### 该项目fork自https://github.com/Nirunfeng/face_beauty  仅是对其功能、界面进行完善
 
 ## 技术栈
